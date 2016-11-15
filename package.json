@@ -1,0 +1,11 @@
+{
+  "name": "a4",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "express": "~4.2.0",
+    "morgan": "~1.0.0",
+    "sqlite3": "^3.1.1"
+  }
+}
