@@ -1,5 +1,5 @@
 	#########################################
-	# COMP2406 Assignment 4 Exam Server	#
+	#	Exam Server			#
 	#		by Daniel Fitzhenry	#
 	#########################################
 
